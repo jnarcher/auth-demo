@@ -1,0 +1,6 @@
+[submodule "auth-demo-client"]
+	path = auth-demo-client
+	url = git@github.com:jnarcher/auth-demo-client.git
+[submodule "auth-demo-server"]
+	path = auth-demo-server
+	url = git@github.com:jnarcher/auth-demo-server.git
